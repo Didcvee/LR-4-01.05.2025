@@ -37,6 +37,8 @@
 ## Запуск проекта
 
 ```bash
+git clone https://github.com/Didcvee/LR-4-01.05.2025.git
+cd LR-4-01.05.2025
 dotnet run
 ```
 
